@@ -1,0 +1,6 @@
+{
+  "name": "Sorteer Je Bestanden",
+  "description": "Een slimme galerij die automatisch geüploade foto's, video's en bestanden categoriseert in thema-albums met behulp van AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
